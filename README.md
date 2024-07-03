@@ -1,5 +1,6 @@
 
 
+
 # Login-Gui
 
 
@@ -7,15 +8,7 @@
 
 **This repository contains a simple Qt-based Login Page GUI application that demonstrates various Qt functionalities, including GUI design, event handling, and timers. The application includes a main window with two primary functionalities: user login validation and displaying an "About Me" dialog.**
 
-### Screenshots :
-![l1](https://github.com/AmoghRaina/Login-Gui/assets/116047470/02eb9034-9790-4689-84bd-3e4a633c4bfc)
-![l2](https://github.com/AmoghRaina/Login-Gui/assets/116047470/7f116156-2216-452c-8e7b-c47010e451dc)
-![l3](https://github.com/AmoghRaina/Login-Gui/assets/116047470/6e093cfa-33df-4d1c-aa17-7e39db1788e4)
-![l4](https://github.com/AmoghRaina/Login-Gui/assets/116047470/f8ac7235-47f4-4cfb-a164-474c5cdaf525)
-![l5](https://github.com/AmoghRaina/Login-Gui/assets/116047470/5cad774e-0e0e-45dc-a329-b0caf822ea75)
 
-### Running media :
-![logingifcrop](https://github.com/AmoghRaina/Login-Gui/assets/116047470/f155d81c-bd52-4f2c-bbb7-72d8daec1726)
 ### Main Features
 
 1.  **User Interface Setup**:
@@ -65,3 +58,26 @@
     
 6.  **Community and Support**:  
     Developers benefit from community contributions and ongoing support for enhancements and bug fixes through my GitHub repository. It’s a collaborative space where developers can collaborate, report issues, and suggest improvements.
+### Screenshots:
+
+<table>
+  <tr>
+    <td><img src="https://github.com/AmoghRaina/Login-Gui/assets/116047470/02eb9034-9790-4689-84bd-3e4a633c4bfc" alt="l1" width="300"/></td>
+    <td><img src="https://github.com/AmoghRaina/Login-Gui/assets/116047470/7f116156-2216-452c-8e7b-c47010e451dc" alt="l2" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/AmoghRaina/Login-Gui/assets/116047470/6e093cfa-33df-4d1c-aa17-7e39db1788e4" alt="l3" width="300"/></td>
+    <td><img src="https://github.com/AmoghRaina/Login-Gui/assets/116047470/f8ac7235-47f4-4cfb-a164-474c5cdaf525" alt="l4" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/AmoghRaina/Login-Gui/assets/116047470/5cad774e-0e0e-45dc-a329-b0caf822ea75" alt="l5" width="300"/></td>
+  </tr>
+</table>
+
+### Running media :
+![logingifcrop](https://github.com/AmoghRaina/Login-Gui/assets/116047470/f155d81c-bd52-4f2c-bbb7-72d8daec1726)
+
+
+## Contributions
+
+I welcome contributions to the Login GUI project! If you have ideas for improvements, new features, or bug fixes, feel free to add them to my GitHub repository. I appreciate any help in making this project better and look forward to collaborating with you. Thank you for your support and contributions!
